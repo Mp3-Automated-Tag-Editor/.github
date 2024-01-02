@@ -1,4 +1,4 @@
 ### Task List
-- [ ] Figure out surrealDB integration for Rust
 - [ ] Figure out testing framework (Similar to AppFlowy) for testing
-- [ ] Build Out API suite
+- [x] Build Out API suite
+- [ ] Figure out events from tauri for IPC communication between FE and BE.
