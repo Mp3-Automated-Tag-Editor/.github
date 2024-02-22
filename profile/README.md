@@ -36,6 +36,7 @@ If you'd like to contribute, feel free to reach us via email!
 	- [ ] - Cleaner TitleBar Implmentation
 	- [ ] - Documentation - clean it up
 	- [ ] - Auth plan - answer why we need auth, what data is to be collected, what is to be displayed, at which stages do we need login (in app, or just login page?, how to monitor data?)
+ 	- [ ] - Figure out a Subscription Plan / Business Model Plan
 	- [ ] - Logos for app - change
 	- [ ] - Server Side Testing - implement code coverage workflow for GitHub - research the same
 	- [ ] - Server Side Error Handling - map out potential issues + handle them
