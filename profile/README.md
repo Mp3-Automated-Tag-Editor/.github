@@ -12,7 +12,8 @@ If you'd like to contribute, feel free to reach us via email!
 	- [ ] - CLI Process workflow - plan and implement + animation + better colours
 	- [ ] - Saving previous session instances (display as a card below start scrape) + logging of data handled - plan a workflow for the same
 * Edit
-	- [ ] - Alter new table based on songs schema
+	- [x] - Alter new table based on songs schema
+ 	- [ ] - Hide Comments, Track Number and Disc Number on Startup 
 	- [ ] - Figure out which columns are to be sortable, etc
 	- [ ] - Create Dummy data + Test
 	- [ ] - map out process flow for all the new features + how to best go about it in the app
