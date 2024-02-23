@@ -4,32 +4,30 @@ If you'd like to contribute, feel free to reach us via email!
 
 ### MP3-GUI
 * Dashboard
-	- [ ] - Add a recently viewed button
-	- [ ] - Add a stats view button
+	- [ ] - [#6](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/6) (Roadmap v1.x) - Add a recently viewed button
+	- [ ] - [#7](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/7) (Roadmap v1.x) - Add a stats view button
 
 * Start
-	- [ ] - Check if network is down, if server is connected, current latency and network speed (this to be done during CLI init, keep these as status calls on side bar settings)
-	- [ ] - CLI Process workflow - plan and implement + animation + better colours
-	- [ ] - Saving previous session instances (display as a card below start scrape) + logging of data handled - plan a workflow for the same
+	- [ ] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - Check if network is down, if server is connected, current latency and network speed (this to be done during CLI init, keep these as status calls on side bar settings)
+ 	- [ ] - [#10](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/10) (Roadmap v1.x) - Fix settings config for start process
+	- [ ] - [#9](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/9) (Roadmap v1.x) - CLI Process workflow - plan and implement + animation + better colours
+	- [ ] - [#11](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/11) (Roadmap v1.x) - Saving previous session instances (display as a card below start scrape) + logging of data handled - plan a workflow for the same
 * Edit
-	- [x] - Alter new table based on songs schema
  	- [ ] - Hide Comments, Track Number and Disc Number on Startup 
-	- [ ] - Figure out which columns are to be sortable, etc
-	- [ ] - Create Dummy data + Test
-	- [ ] - map out process flow for all the new features + how to best go about it in the app
-	- [ ] - Implement Side bar (Sheet) on selecting edit, display data of corresponding select on side + add album art screen + option to add picture (figure out how that is supposed to work.. is storage needed? etc)
+	- [ ] - option to add picture (figure out how that is supposed to work.. is storage needed? etc)
 
 * Download
-	- [ ] - Research up on download avenues + API for the same (Various download avenues)
+	- [ ] - [#12](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/12) (Roadmap v1.x) - Research up on download avenues + API for the same (Various download avenues)
 
 * Music Playstation
 	- [ ] - Research up on Designs for Music Players
 
 * About Us
 	- [ ] - Simple Format, look for inspirations
+
 * Settings
-	- [ ] - display if network is down, if server is connected, current latency and network speed
-	- [ ] - Figure out other parameters to be checked in settings
+	- [ ] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - display if network is down, if server is connected, current latency and network speed
+	- [ ] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - Figure out other parameters to be checked in settings
 
 * General
 	- [ ] - Fix Titlebar and ScrollBar interference
@@ -44,7 +42,7 @@ If you'd like to contribute, feel free to reach us via email!
 
 ### Mp3-CLI
 * General
-	- [ ] - Documentation - clean it up
+	- [ ] - [#1](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Cli/issues/1) - Documentation - clean it up
 
 ### Mp3 Org
 * General
