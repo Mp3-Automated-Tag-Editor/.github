@@ -36,7 +36,7 @@ If you'd like to contribute, feel free to reach us via email!
 	- [ ] - [#13](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/13) (Roadmap v1.x) - Documentation - clean it up
 	- [ ] - [Discuss] Auth plan - answer why we need auth, what data is to be collected, what is to be displayed, at which stages do we need login (in app, or just login page?, how to monitor data?)
  	- [ ] - [Discuss] Figure out a Subscription Plan / Business Model Plan
-	- [ ] - [#15](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/15) (Roadmap v1.x) - Logos for app - change
+	- [x] - [#15](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/15) (Roadmap v1.x) - Logos for app - change
 	- [ ] - [#14](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/14) (Roadmap v1.x) - Server Side Testing - implement code coverage workflow for GitHub - research the same
 	- [ ] - [#3](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/3) (Roadmap v1.x) - Server Side Error Handling - map out potential issues + handle them
 
