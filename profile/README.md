@@ -44,6 +44,11 @@ If you'd like to contribute, feel free to reach us via email!
 * General
 	- [ ] - [#1](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Cli/issues/1) - Documentation - clean it up
 
+### MP3-API
+* API
+	- [ ] - Logging for Backend Application
+	- [ ] - Dockerization of Application
+
 ### Mp3 Org
 * General
 	- [ ] - [Discuss] Figure out Download Site, Landing Page, etc - Use Spring baeldung Website and Rehaan website for ideas, ShadCN for implementation
