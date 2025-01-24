@@ -5,19 +5,19 @@ If you'd like to contribute, feel free to reach us via email!
 ### MP3-GUI
 * Dashboard
 	- [ ] - [#6](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/6) (Roadmap v1.x) - Add a recently viewed button
-	- [ ] - [#7](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/7) (Roadmap v1.x) - Add a stats view button
+	- [x] - [#7](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/7) (Roadmap v1.x) - Add a stats view button
 
 * Start
 	- [ ] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - Check if network is down, if server is connected, current latency and network speed (this to be done during CLI init, keep these as status calls on side bar settings)
- 	- [ ] - [#10](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/10) (Roadmap v1.x) - Fix settings config for start process
-	- [ ] - [#9](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/9) (Roadmap v1.x) - CLI Process workflow - plan and implement + animation + better colours
+ 	- [x] - [#10](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/10) (Roadmap v1.x) - Fix settings config for start process
+	- [x] - [#9](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/9) (Roadmap v1.x) - CLI Process workflow - plan and implement + animation + better colours
 	- [ ] - [#11](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/11) (Roadmap v1.x) - Saving previous session instances (display as a card below start scrape) + logging of data handled - plan a workflow for the same
 * Edit
  	- [ ] - [#16](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/16) (Roadmap v1.x) - Hide Comments, Track Number and Disc Number on Startup 
-	- [ ] - [Discuss] option to add picture (figure out how that is supposed to work.. is storage needed? etc)
+	- [x] - [Discuss] option to add picture (figure out how that is supposed to work.. is storage needed? etc)
 
 * Download
-	- [ ] - [#12](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/12) (Roadmap v1.x) - Research up on download avenues + API for the same (Various download avenues)
+	- [x] - [#12](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/12) (Roadmap v1.x) - Research up on download avenues + API for the same (Various download avenues)
 
 * Music Playstation
 	- [ ] - [Discuss] Research up on Designs for Music Players
@@ -25,9 +25,13 @@ If you'd like to contribute, feel free to reach us via email!
 * About Us
 	- [ ] - [Discuss] Simple Format, look for inspirations
 
+* Stats
+	- [ ] - [Discuss] Plan on creating API to tract data of Songs scraped, and to store them on user side.
+
 * Settings
 	- [ ] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - display if network is down, if server is connected, current latency and network speed
-	- [ ] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - Figure out other parameters to be checked in settings
+	- [x] - [#8](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/8) (Roadmap v1.x) - Figure out other parameters to be checked in settings
+ 	- [ ] - [Discuss] - Option to add custom plugins and classifiers? Let users create custom python scripts/executables that can be added and used within the app as 3rd party plugins.
 
 * General
 	- [ ] - [#2](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/2) (Roadmap v1.x) - Fix Titlebar and ScrollBar interference
@@ -56,3 +60,8 @@ If you'd like to contribute, feel free to reach us via email!
 	- [ ] - [Discuss] Deployment Plan for Azure
 	- [ ] - [Discuss] Design Process Flow Diagram for Backend Architecture, Frontend Process Flow, Overall Architecture, Overall Process Flow Diagram for CLI and GUI
 	- [ ] - [Discuss] Give Roadmap Tags for all these to-do's
+ 	- [ ] - [Discuss] Stream functionality - How to go about implementing this
+
+### Mp3 Flutter App
+* General
+	- [ ] - Find a good base app to fork and continue development for the stream feature.
