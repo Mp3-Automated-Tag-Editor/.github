@@ -2,6 +2,40 @@
 
 If you'd like to contribute, feel free to reach us via email!
 
+### Version 2.0 Release (As of 31.01.2025)
+
+- Complete Edit page with session suggestions + Session Edit - Group Save or Individual Save - Custom Tag to tell which songs has been edited (Needs to contain Session info), along with highlight (Show Session Date first and foremost, with the original as well, slightly change the colour as well)
+    - Fix Year issue
+    - Fix edit on normal edit (Not session)
+    - Review All Files - Trigger each one after the other
+    - In file Edit - Save Changes & Apply Changes (At the top)
+    - All files will have a yellow tint (Not saved). On save - Green tint
+    - Load or Save Edit session - Save changes into edit session
+    - Also on Save, add custom tag with session name. And add percentrage modified = percentage accuracy. Therefore 0's weren't scraped by the scraper.
+- Music Player
+    - Start work on Music Player - UI - Mainly MusiCat and Infinitunes
+    - Study Spotify/YT Music and Media Player + MusiCat and Infinitunes. Then Confirm Design via Notion ss
+- Backend - App
+    - Race Condition? More than one thread are trying to do the operation of the
+- Backend - Server
+    - Deepseek API integration
+    - Ollama API Integration
+    - support to add Plugins (Add python code, validate that it passes data as expected), can be used along with other classifiers (To be developed)
+- General
+    - Settings - Move/Duplicate the current Dev settings to the settings panel in the Scraper Settings + Add the Cache setting + Add Status Checks in sidebar settings + Scrape Settings Page + From Cache Toggle
+    - Setup Landing Page & Docs as soon as all this is completed
+    - Code CleanUp + Optimizations
+    - About Us Revamp
+
+### Version 3.0 Release (Planned for 2026)
+
+- Try making the FastAPI into a .exe as well, and see how that goes [Later]
+- Phone App & Streaming - Down the line (Research it up tho) -  Start researching up the streaming process (From the bottom up)
+- Long term - Rust wrapper for Yt-DLP
+- Stats - Base it on MusiCat
+
+---
+
 ### MP3-GUI
 * Dashboard
 	- [ ] - [#6](https://github.com/Mp3-Automated-Tag-Editor/Automated-Mp3-Gui/issues/6) (Roadmap v1.x) - Add a recently viewed button
